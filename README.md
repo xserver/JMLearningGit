@@ -8,8 +8,8 @@
 --
 #### Level 1
 * 基本命令
-	- status, add, commid
-	- log
+	* status, add, commid
+	* log
 * 从各个区域回滚
 	* checkout
 	* reset
@@ -17,19 +17,20 @@
 --
 #### Level 2
 * 辅助命令
-	- log
-	- diff
-	- show 
+	* log
+	* diff
+	* show
+	* config
 * 远程分支如何表示
 * branch 正确使用姿势
-	- push
-	- pull
+	* push
+	* pull
 
 --
 #### Level 3
 * 分支的合并方式
-	- rebase
-	- merge
+	* rebase
+	* merge
 
 --
 #### Level 4
@@ -42,11 +43,17 @@
 	* fetch
 	* grep
 	* bisect
+	* remote
 
+	
 --
 #### Level 6
 * 高级特性
 
+---
+
+# 其它资源
+[图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html#checkout)
 
 ---
 cmd         | desc                 |
