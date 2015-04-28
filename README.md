@@ -2,12 +2,14 @@
 
 
 #### Level 0
-0. 总概念
-
-#### Level 1
+* 总概念
 * 本地工作区的3个区域
+
+--
+#### Level 1
 * 基本命令
 	- status, add, commid
+	- log
 * 从各个区域回滚
 	* checkout
 	* reset
@@ -32,10 +34,14 @@
 --
 #### Level 4
 * github flow 
+
  
 --
 #### Level 5
-* ？
+* 其它命名
+	* fetch
+	* grep
+	* bisect
 
 --
 #### Level 6
@@ -43,9 +49,9 @@
 
 
 ---
-cmd 		| desc				   |
+cmd         | desc                 |
 ------------|----------------------|
-log 		| foo                  |
+log         | foo                  |
 
 
 
