@@ -16,7 +16,7 @@
 
 --
 #### Level 2
-* 辅助命令
+* 常用命令
 	* log
 	* diff
 	* show
@@ -39,7 +39,7 @@
  
 --
 #### Level 5
-* 其它命名
+* 常用命名
 	* fetch
 	* grep
 	* bisect
@@ -48,6 +48,9 @@
 	
 --
 #### Level 6
+* stash
+* reflog
+* git help -a
 * 高级特性
 
 ---
