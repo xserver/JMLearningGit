@@ -13,7 +13,12 @@
 * 从各个区域回滚
 	* checkout
 	* reset
-
+	
+* branch 正确使用姿势
+	* push
+	* pull VS fetch
+	
+* 远程分支如何表示
 --
 #### Level 2
 * 常用命令
@@ -21,10 +26,7 @@
 	* diff
 	* show
 	* config
-* 远程分支如何表示
-* branch 正确使用姿势
-	* push
-	* pull
+
 
 --
 #### Level 3
@@ -40,7 +42,6 @@
 --
 #### Level 5
 * 常用命名
-	* fetch
 	* grep
 	* bisect
 	* remote
